@@ -1,0 +1,15 @@
+This is set of simple PHP/JS scripts to show and process Wikimapia
+objects.
+
+Example:
+Wikimapia object: http://wikimapia.org/4440156/Warsaw
+HTML representation: [...]/wikimapia-api-fun/?id=4440156
+
+API documentation:
+http://wikimapia.org/api/
+
+Running:
+1. Get a key from http://wikimapia.org/api/?action=create_key and
+fill the $key variable in settings.php.
+
+2. Execute init.sh.
